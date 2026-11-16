@@ -50,32 +50,29 @@ I enjoy exploring different areas of programming, from building software applica
 
 ## Featured Projects
 
-### 🎮 Game Development
+### 🎮 Hush and Delivery
 
-**Morgan** — Narrative-driven 2D isometric game developed with Unity.
+**3D Game Development | C# | Unity**
 
-An exploration of storytelling, puzzles, atmosphere and interactive experiences.
+A 3D game project developed using C# and Unity, focused on gameplay mechanics, interactive systems and game development.
 
-[View Project](https://github.com/SEU_USUARIO/Morgan)
+[View Repository](https://github.com/AlexIkd/Hushn-Delivery)
+
+---
 
 ### 💻 Software Development
 
 Personal projects focused on programming, problem-solving and experimenting with different technologies.
 
-[Explore Repositories](https://github.com/SEU_USUARIO?tab=repositories)
+[Explore My Repositories](https://github.com/AlexIkd?tab=repositories)
 
 ---
 
 ## GitHub Statistics
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=AlexIdk&show_icons=true&hide_border=true&theme=default&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AlexIdk\&show_icons=true\&hide_border=true\&theme=default\&rank_icon=github)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIdk&layout=compact&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIdk\&layout=compact\&hide_border=true\&theme=default)" />
-\</p>
+\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=AlexIkd&show_icons=true&hide_border=true&theme=default&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AlexIkd\&show_icons=true\&hide_border=true\&theme=default\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd&layout=compact&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd\&layout=compact\&hide_border=true\&theme=default)" /> \</p>
 
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=AlexIdk&theme=default&hide_border=true](https://streak-stats.demolab.com?user=AlexIdk\&theme=default\&hide_border=true)" />
-\</p>
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=AlexIkd&theme=default&hide_border=true](https://streak-stats.demolab.com?user=AlexIkd\&theme=default\&hide_border=true)" /> \</p>
 
 ---
 
@@ -83,8 +80,17 @@ Personal projects focused on programming, problem-solving and experimenting with
 
 I'm always open to connecting with developers, sharing ideas and exploring new opportunities.
 
-\<p align="left">   \<a href="[https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/](https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/)" target="\_blank">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square\&logo=linkedin\&logoColor=white)" />   \</a>   \<a href="mailto\:alexandredacosta1603@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact-222222?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-222222?style=flat-square\&logo=gmail\&logoColor=white)" />   \</a> \</p>
+\<p align="left">
+&#x20; \<a href="[https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/](https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/)" target="\_blank">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:alexandredacosta1603\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-222222?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-222222?style=flat-square\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
-\<p align="center">   \<sub>Building, learning and turning ideas into code.\</sub> \</p>
+\<p align="center">
+&#x20; \<sub>Building, learning and turning ideas into code.\</sub>
+\</p>
