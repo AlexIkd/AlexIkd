@@ -2,12 +2,7 @@
 
 ### Computer Science Student | Software Developer | Game Development
 
-\<p align="left">
-&#x20; \<img src="[https://img.shields.io/badge/Software_Development-222222?style=flat-square](https://img.shields.io/badge/Software_Development-222222?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/Artificial_Intelligence-222222?style=flat-square](https://img.shields.io/badge/Artificial_Intelligence-222222?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/Cloud_Computing-222222?style=flat-square](https://img.shields.io/badge/Cloud_Computing-222222?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/Game_Development-222222?style=flat-square](https://img.shields.io/badge/Game_Development-222222?style=flat-square)" />
-\</p>
+\<p align="left">   \<img src="[https://img.shields.io/badge/Software_Development-222222?style=flat-square](https://img.shields.io/badge/Software_Development-222222?style=flat-square)" alt="Software Development" />   \<img src="[https://img.shields.io/badge/Artificial_Intelligence-222222?style=flat-square](https://img.shields.io/badge/Artificial_Intelligence-222222?style=flat-square)" alt="Artificial Intelligence" />   \<img src="[https://img.shields.io/badge/Cloud_Computing-222222?style=flat-square](https://img.shields.io/badge/Cloud_Computing-222222?style=flat-square)" alt="Cloud Computing" />   \<img src="[https://img.shields.io/badge/Game_Development-222222?style=flat-square](https://img.shields.io/badge/Game_Development-222222?style=flat-square)" alt="Game Development" /> \</p>
 
 ---
 
@@ -31,19 +26,19 @@ I enjoy exploring different areas of programming, from building software applica
 **Programming Languages**
 
 \<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=cs,cpp,c,python,java,js](https://skillicons.dev/icons?i=cs,cpp,c,python,java,js)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=cs,cpp,c,python,java,js](https://skillicons.dev/icons?i=cs,cpp,c,python,java,js)" alt="Programming Languages" />
 \</p>
 
 **Web Development & Database**
 
 \<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,mysql](https://skillicons.dev/icons?i=html,css,mysql)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,mysql](https://skillicons.dev/icons?i=html,css,mysql)" alt="Web Development and Database" />
 \</p>
 
 **Tools & Technologies**
 
 \<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=unity,blender,aws,git,github,vscode](https://skillicons.dev/icons?i=unity,blender,aws,git,github,vscode)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=unity,blender,aws,git,github,vscode](https://skillicons.dev/icons?i=unity,blender,aws,git,github,vscode)" alt="Development Tools" />
 \</p>
 
 ---
@@ -70,9 +65,14 @@ Personal projects focused on programming, problem-solving and experimenting with
 
 ## GitHub Statistics
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=AlexIkd&show_icons=true&hide_border=true&theme=default&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AlexIkd\&show_icons=true\&hide_border=true\&theme=default\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd&layout=compact&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd\&layout=compact\&hide_border=true\&theme=default)" /> \</p>
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=AlexIkd&show_icons=true&hide_border=true&theme=default&rank_icon=github](https://github-readme-stats.vercel.app/api?username=AlexIkd\&show_icons=true\&hide_border=true\&theme=default\&rank_icon=github)" alt="GitHub Statistics" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd&layout=compact&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd\&layout=compact\&hide_border=true\&theme=default)" alt="Top Languages" />
+\</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=AlexIkd&theme=default&hide_border=true](https://streak-stats.demolab.com?user=AlexIkd\&theme=default\&hide_border=true)" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://streak-stats.demolab.com?user=AlexIkd&theme=default&hide_border=true](https://streak-stats.demolab.com?user=AlexIkd\&theme=default\&hide_border=true)" alt="GitHub Streak" />
+\</p>
 
 ---
 
@@ -81,11 +81,11 @@ Personal projects focused on programming, problem-solving and experimenting with
 I'm always open to connecting with developers, sharing ideas and exploring new opportunities.
 
 \<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/](https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/)" target="\_blank">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square\&logo=linkedin\&logoColor=white)" />
+&#x20; \<a href="[https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/](https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
 &#x20; \</a>
 &#x20; \<a href="mailto\:alexandredacosta1603\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-222222?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-222222?style=flat-square\&logo=gmail\&logoColor=white)" />
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-222222?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-222222?style=flat-square\&logo=gmail\&logoColor=white)" alt="Email" />
 &#x20; \</a>
 \</p>
 
