@@ -4,10 +4,10 @@
 ### Computer Science Student | Software Developer | Game Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Software_Development-222222?style=flat-square" alt="Software Development" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-222222?style=flat-square" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-222222?style=flat-square" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/Game_Development-222222?style=flat-square" alt="Game Development" />
+  <img src="https://img.shields.io/badge/SOFTWARE_DEVELOPMENT-C9A65B?style=flat-square&labelColor=111318" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-C9A65B?style=flat-square&labelColor=111318" />
+  <img src="https://img.shields.io/badge/CLOUD_COMPUTING-C9A65B?style=flat-square&labelColor=111318" />
+  <img src="https://img.shields.io/badge/GAME_DEVELOPMENT-C9A65B?style=flat-square&labelColor=111318" />
 </p>
 
 ---
@@ -32,26 +32,26 @@ I enjoy exploring different areas of programming, from building software applica
 **Programming Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,java,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,java,js&theme=dark" />
 </p>
 
 **Web Development & Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql" alt="Web Development and Database" />
+  <img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" />
 </p>
 
 **Tools & Technologies**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,blender,aws,git,github,vscode" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,aws,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### 🎮 Hush and Delivery
+### Hush and Delivery
 
 **3D Game Development | C# | Unity**
 
@@ -61,7 +61,7 @@ A 3D game project developed using C# and Unity, focused on gameplay mechanics an
 
 ---
 
-### 💻 Software Development
+### Software Development
 
 Personal projects focused on programming, problem-solving and experimenting with different technologies.
 
@@ -72,12 +72,12 @@ Personal projects focused on programming, problem-solving and experimenting with
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexIkd&show_icons=true&hide_border=true&theme=default" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexIkd&show_icons=true&hide_border=true&bg_color=111318&title_color=C9A65B&text_color=E8E9EC&icon_color=C9A65B" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexIkd&layout=compact&hide_border=true&bg_color=111318&title_color=C9A65B&text_color=E8E9EC" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexIkd&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AlexIkd&hide_border=true&background=111318&ring=C9A65B&fire=C9A65B&currStreakLabel=C9A65B&sideLabels=E8E9EC&dates=9AA3B2&currStreakNum=E8E9EC&sideNums=E8E9EC" />
 </p>
 
 ---
@@ -88,10 +88,10 @@ I'm always open to connecting with developers, sharing ideas and exploring new o
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexandre-sant-ana-30b6a3240/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-222222?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-C9A65B?style=flat-square&logo=linkedin&logoColor=111318&labelColor=111318" />
   </a>
   <a href="mailto:alexandredacosta1603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-222222?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-C9A65B?style=flat-square&logo=gmail&logoColor=111318&labelColor=111318" />
   </a>
 </p>
 
